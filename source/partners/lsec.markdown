@@ -1,14 +1,14 @@
 ---
 layout: page
-title: LSec
+title: LSEC - Leaders in Security 
 date: "2014-01-24 16:35"
 comments: false
 sharing: true
 footer: false
 published: true
 ---
+![lsec_150.jpeg](/images/partners/lsec_150.jpeg)
 
-## LSEC - Leaders in Security 
 LSEC is a European not-for-profit industry association, based in Belgium.
 The community represents more than 130 expert members from the ICT security industry, research and associated partners from around the world. LSEC brings thought leadership on ICT security related matters to market, supporting awareness and the overall market development.
  
