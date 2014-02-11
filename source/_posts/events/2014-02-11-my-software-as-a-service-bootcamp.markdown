@@ -19,6 +19,8 @@ Off course, for them, it was easy, they were SaaS from day one. For most softwar
 ## "My Software as a SaaS?" bootcamp
 Enter the **"My Software as a SaaS?" bootcamps**: In 3 afternoon sessions, we will bring you up to speed with the whole idea of a SaaS business and identify with you the roadblocks you might encounter on your way to a scalable SaaS offering. We'll also bring you in contact with experienced entrepreneurs that went through this journey before you. After those 3 afternoons, you'll understand how you might benefit from going SaaS.
 
+
+
 ## Practical details:
 
 **Target Audience:** Decision makers (CEO, Founders, CTO) of software companies that considering SaaS to grow their business but currently do not have a SaaS offering yet.
