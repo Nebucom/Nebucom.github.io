@@ -5,10 +5,9 @@ date: 2014-03-11 09:34:07 +0100
 comments: true
 categories: 
 ---
-*These past months we drummed up major international names in cloud computing for a series of workshops. The starting point of the sessions: Focus on your business, leave your IT infrastructure to the cloud. After meet & greets with Amazon, Rackspace, IBM and CSC, you could also hear six Belgian cloud specialists speak during our final meeting on 11 February in Brussels. They gave a bunch of valuable tips to take into account for people who want to set up a powerful cloud infrastructure. For anyone who was not able to attend, here are a few virtual giveaways, starting with one from Daniel Bartz.*
-
 ## Daniel Bartz – ComodIT: “Scrutinise the entire IT solution of an IaaS provider, not just the infrastructure.”
 <img class="inline-picture" src="http://www.sirris.be/uploadedImages/News/Daniel_Barz.jpg">
+*These past months we drummed up major international names in cloud computing for a series of workshops. The starting point of the sessions: Focus on your business, leave your IT infrastructure to the cloud. After meet & greets with Amazon, Rackspace, IBM and CSC, you could also hear six Belgian cloud specialists speak during our final meeting on 11 February in Brussels. They gave a bunch of valuable tips to take into account for people who want to set up a powerful cloud infrastructure. For anyone who was not able to attend, here are a few virtual giveaways, starting with one from Daniel Bartz.*
 <!-- more -->
 
 What typifies international cloud computing providers according to Daniel Bartz, besides their worldwide presence and enormous infrastructure with often more than 100,000 servers, is their focus on business strategy, security and support, flexibility, and offering advantageous standard packages as well as dedicated servers and secure clouds. Just like with local providers it is a good idea to read their SLAs thoroughly: do they only offer a ‘basic’ or a more extensive support (i.e. with data storage)? What do they emphasise and what technology do they use? 
