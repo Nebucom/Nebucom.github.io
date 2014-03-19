@@ -12,6 +12,7 @@ published: true
 ---
 ## Explore the opportunities of SaaS for growing your software business.
 Do you know [Davy Kestens](https://twitter.com/davykestens)? He founded his software company [SparkCentral](http://www.sparkcentral.com) (formally known as TwitSpark) in 2011, raised more than 5 million dollars and has 16 people working for him, with customers like Delta Airlines, Brussels Airlines or Volkswagen. Or [Woorank](http://www.woorank.com), the company of [Jean Dereley](http://www.linkedin.com/in/jderely). They are based in Brussels, founded in 2011, 18 people. These are just 2 examples of Belgian software companies that grow and scale fast thanks to SaaS. Software is eating the world, isn't it.
+<!-- more -->
 
 <a href="/bootcamp-contact" class="btn btn-success btn-large center">Contact us today!</a>
 
