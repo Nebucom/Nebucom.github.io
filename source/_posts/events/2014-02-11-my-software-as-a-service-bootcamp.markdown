@@ -17,7 +17,7 @@ Do you know [Davy Kestens](https://twitter.com/davykestens)? He founded his soft
 <a href="/bootcamp-contact" class="btn btn-success btn-large center">Contact us today!</a>
 
 ## What about your software offering?
-Off course, for them, it was easy, they were SaaS from day one. For most software companies in Belgium, the situation is more complicated: Your current offering is **complex** and requires **tweaking and tuning** for each customer, you face **long sales cycles**, your **software architecture and technology** was never intended to be used across the Internet by multiple customers at once.  All this is preventing you from growing your business through a SaaS model. And while we are at it, all this Cloud/IaaS/PaaS/SaaS stuff is **pretty overwhelming**	, isn't it.
+Of course, for them, it was easy, they were SaaS from day one. For most software companies in Belgium, the situation is more complicated: Your current offering is **complex** and requires **tweaking and tuning** for each customer, you face **long sales cycles**, your **software architecture and technology** was never intended to be used across the Internet by multiple customers at once.  All this is preventing you from growing your business through a SaaS model. And while we are at it, all this Cloud/IaaS/PaaS/SaaS stuff is **pretty overwhelming**, isn't it.
 
 ## "My Software as a SaaS?" bootcamp
 Enter the **"My Software as a SaaS?" bootcamps**: In 3 afternoon sessions, we will bring you up to speed with the whole idea of a SaaS business and identify with you the roadblocks you might encounter on your way to a scalable SaaS offering. We'll also bring you in contact with experienced entrepreneurs that went through this journey before you. After those 3 afternoons, you'll understand how you might benefit from going SaaS.
@@ -40,7 +40,7 @@ Enter the **"My Software as a SaaS?" bootcamps**: In 3 afternoon sessions, we wi
 3. Most successful revenue models
 4. Case study: a Belgian SaaS entrepreneur
 
-### May 7th Discovering a SaaS Offering
+### May 7th: Discovering a SaaS Offering
 1. Introduction to Lean Startup
    1. Discovering what SaaS offering works and for whom
    2. Building scalable channels and customer relationships
