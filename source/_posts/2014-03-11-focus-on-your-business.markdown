@@ -2,7 +2,7 @@
 layout: post
 title: "Focus on your business, leave your IT infrastructure to the cloud: round-up – Part 1"
 date: 2014-03-11 09:34:07 +0100
-comments: true
+comments: false
 categories: 
 ---
 ## Daniel Bartz – ComodIT: “Scrutinise the entire IT solution of an IaaS provider, not just the infrastructure.”

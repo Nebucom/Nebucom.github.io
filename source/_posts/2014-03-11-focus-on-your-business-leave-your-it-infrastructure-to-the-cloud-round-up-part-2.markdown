@@ -2,7 +2,7 @@
 layout: post
 title: "Focus on your business, leave your IT infrastructure to the cloud: round-up - Part 2"
 date: 2014-03-11 10:01:42 +0100
-comments: true
+comments: false
 categories: 
 ---
 ## Frederik Denkens – Skyscrapers: “Anyone who does their homework thoroughly and starts off with the right attitude can save a lot.”
