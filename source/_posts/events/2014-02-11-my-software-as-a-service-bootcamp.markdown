@@ -55,6 +55,9 @@ Enter the **"My Software as a SaaS?" bootcamps**: In 3 afternoon sessions, we wi
 3. SaaS engineering processes: introduction to DevOps
 4. Case study: from monthly releases to continuous deployment
 
+### Location ###
+All 3 sessions will take place in Ghent: Gaston Crommenlaan 8, 9050 Ledeberg
+
 ### Experts:
 <img src="http://www.startathlon.com/images/team/nick.jpg">
 [Nick Boucart](http://www.linkedin.com/in/nickboucart) works at Sirris as a technological advisor in software engineering and ICT. He has 10+ years of experience in software development teams large and small. Nick fills his day coaching technology startups, helping software companies make technological choices, often on the borders of business, product and technology.
