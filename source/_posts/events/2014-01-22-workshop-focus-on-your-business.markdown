@@ -9,7 +9,7 @@ date: "2014-01-22 14:15:13 +0100"
 "start-time": "10:00"
 "end-time": "12:00 (light lunch foreseen)"
 location: Diamant Building Brussels A. Reyerslaan 80 1030 Brussels
-published: true
+published: false
 ---
 
 During our fifth and final workshop you will find this out in the series ‘Focus on your business, leave your IT infrastructure to the cloud’. After international players such as Amazon, Rackspace, IBM and CSC, we are now focusing on domestic contributors. Curious as to how IaaS Belgian providers find solutions? Come to our last IaaS workshop on 11 February and ask the experts yourself!    

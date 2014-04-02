@@ -36,9 +36,12 @@ Enter the **"My Software as a SaaS?" bootcamps**: In 3 afternoon sessions, we wi
 
 ### April 30th 2014: The Big Picture
 1. Introduction to SaaS and how it differs from a "traditional" software business, with a focus on the whole business model.
-2. Privacy and Security: do's and don'ts
-3. Most successful revenue models
-4. Case study: a Belgian SaaS entrepreneur
+    * What is SaaS, why SaaS, why SaaS now – definition and trends
+    * Differences between a "traditional" software company and a SaaS company
+    * Product definition, Operations, Speed
+    * SaaS Revenue Models and financials 
+2. Top 10 things to do and not do for SaaS companies when it comes to security & privacy
+3. Case study: a Belgian SaaS entrepreneur
 
 ### May 7th: Discovering a SaaS Offering
 1. Introduction to Lean Startup
@@ -53,10 +56,16 @@ Enter the **"My Software as a SaaS?" bootcamps**: In 3 afternoon sessions, we wi
 4. Case study: from monthly releases to continuous deployment
 
 ### Experts:
-**Nick Boucart** works at Sirris as a technological advisor in software engineering and ICT. He has 10+ years of experience in software development teams large and small. Nick fills his day coaching technology startups, helping software companies make technological choices, often on the borders of business, product and technology.
+<img src="http://www.startathlon.com/images/team/nick.jpg">
+[Nick Boucart](http://www.linkedin.com/in/nickboucart) works at Sirris as a technological advisor in software engineering and ICT. He has 10+ years of experience in software development teams large and small. Nick fills his day coaching technology startups, helping software companies make technological choices, often on the borders of business, product and technology.
 
-**Peter Verhasselt**
+<img src="http://www.startathlon.com/images/team/peter.jpg">
+[Peter Verhasselt](http://be.linkedin.com/pub/peter-verhasselt/1/8a0/392) is an engineer, jurist and strategist with a large network in Belgian high tech industry. Peter has started and led the Mistral program at Sirris that guided 70+ companies in finding the right technology strategy to enable growth.
 
-**More to be announced soon**
+<img src="/images/partners/seldeslachts.jpg">
+[Ulrich Seldeslachts](http://www.linkedin.com/pub/ulrich-seldeslachts/0/4a/688) is the CEO of LSEC - Leaders in Security, a non-profit association focussed on creating awareness for enterprise and government on Information Security, bringing together expertise on Security and electronic Identities in Europe. Ulrich has been leading the group of information security professionals in Belgium for many years. He is founding partner of the European Security Innovation Network, bringing together the experts on information security related topics from all over the world.
+
+<img src="http://www.sirris.be/uploadedImages/News/Denkens.jpg">
+[Frederik Denkens](http://be.linkedin.com/in/fdenkens) is co-founder at [skyscrapers](http://skyscrape.rs), cloud hosting experts who can guide you through the options of cloud computing and help you find, build and maintain the best solution for your needs at any moment.	
 
 <a href="/bootcamp-contact" class="btn btn-success btn-large center">Contact us today!</a>
