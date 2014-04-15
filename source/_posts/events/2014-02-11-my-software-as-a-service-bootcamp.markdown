@@ -22,13 +22,11 @@ Of course, for them, it was easy, they were SaaS from day one. For most software
 ## "My Software as a SaaS?" bootcamp
 Enter the **"My Software as a SaaS?" bootcamps**: In 3 afternoon sessions, we will bring you up to speed with the whole idea of a SaaS business and identify with you the roadblocks you might encounter on your way to a scalable SaaS offering. We'll also bring you in contact with experienced entrepreneurs that went through this journey before you. After those 3 afternoons, you'll understand how you might benefit from going SaaS.
 
-
-
 ## Practical details:
 
-**Target Audience:** Decision makers (CEO, Founders, CTO) of software companies that considering SaaS to grow their business but currently do not have a SaaS offering yet.
+**Target Audience:** Decision makers (CEO, Founders, CTO) of software companies that are considering SaaS to grow their business but currently do not have a SaaS offering yet.
 
-**Dates:** April 30th, May 7th and May 20th, 13:00 - 18:00
+**Dates:** April 30th, May 15th (new date!!) and May 20th, 13:00 - 18:00
 
 **Format:** 3 highly interactive afternoon workshops, with homework and coaching in between the sessions, for a limited audience, max. 8 companies.
 
@@ -43,7 +41,7 @@ Enter the **"My Software as a SaaS?" bootcamps**: In 3 afternoon sessions, we wi
 2. Top 10 things to do and not do for SaaS companies when it comes to security & privacy
 3. Case study: a Belgian SaaS entrepreneur
 
-### May 7th: Discovering a SaaS Offering
+### May 15th: Discovering a SaaS Offering
 1. Introduction to Lean Startup
    1. Discovering what SaaS offering works and for whom
    2. Building scalable channels and customer relationships
@@ -64,6 +62,9 @@ All 3 sessions will take place in Ghent: Gaston Crommenlaan 8, 9050 Ledeberg
 
 <img src="http://www.startathlon.com/images/team/peter.jpg">
 [Peter Verhasselt](http://be.linkedin.com/pub/peter-verhasselt/1/8a0/392) is an engineer, jurist and strategist with a large network in Belgian high tech industry. Peter has started and led the Mistral program at Sirris that guided 70+ companies in finding the right technology strategy to enable growth.
+
+<img src="http://www.startathlon.com/images/omar.jpg">
+[Omar Mohout](http://be.linkedin.com/in/omarmohout) is a serial entrepreneur turned advisor & mentor. After selling his last company, he's now helping European companies go to market in Europe and Middle East.
 
 <img src="/images/partners/seldeslachts.jpg">
 [Ulrich Seldeslachts](http://www.linkedin.com/pub/ulrich-seldeslachts/0/4a/688) is the CEO of LSEC - Leaders in Security, a non-profit association focussed on creating awareness for enterprise and government on Information Security, bringing together expertise on Security and electronic Identities in Europe. Ulrich has been leading the group of information security professionals in Belgium for many years. He is founding partner of the European Security Innovation Network, bringing together the experts on information security related topics from all over the world.
