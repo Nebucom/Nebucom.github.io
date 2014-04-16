@@ -64,7 +64,7 @@ All 3 sessions will take place in Ghent: Gaston Crommenlaan 8, 9050 Ledeberg
 [Peter Verhasselt](http://be.linkedin.com/pub/peter-verhasselt/1/8a0/392) is an engineer, jurist and strategist with a large network in Belgian high tech industry. Peter has started and led the Mistral program at Sirris that guided 70+ companies in finding the right technology strategy to enable growth.
 
 <img src="http://www.startathlon.com/images/omar.jpg">
-[Omar Mohout](http://be.linkedin.com/in/omarmohout) is a serial entrepreneur turned advisor & mentor. After selling his last company, he's now helping European companies go to market in Europe and Middle East.
+[Omar Mohout](http://be.linkedin.com/in/omarmohout) is a Growth Engineer – building repeatable, scalable customer acquisition engines for technology companies.
 
 <img src="/images/partners/seldeslachts.jpg">
 [Ulrich Seldeslachts](http://www.linkedin.com/pub/ulrich-seldeslachts/0/4a/688) is the CEO of LSEC - Leaders in Security, a non-profit association focussed on creating awareness for enterprise and government on Information Security, bringing together expertise on Security and electronic Identities in Europe. Ulrich has been leading the group of information security professionals in Belgium for many years. He is founding partner of the European Security Innovation Network, bringing together the experts on information security related topics from all over the world.
