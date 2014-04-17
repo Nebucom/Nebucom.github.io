@@ -48,6 +48,21 @@
   <meta name="twitter:url"  content="{{ site.url }}{{ page.url }}">
   <meta name="twitter:title"  content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
   <meta name="twitter:description" content="{{ description | strip_html | condense_spaces | truncate:200 }}">
+  {% if page.picture %}
+  <meta name="twitter:picture" content="{{ page.picture }}">
+  <meta property="og:image" content="{{ page.picture }}" />
+  <meta itemprop="image" content="{{ page.picture }}">
+  {% endif %}
+
+<!-- Google Authorship and Publisher Markup -->
+<link rel="author" href="https://plus.google.com/+NebucomBe-SaaS/posts"/>
+<link rel="publisher" href=”https://plus.google.com/+NebucomBe-SaaS"/>
+
+<!-- Schema.org markup for Google+ -->
+<meta itemprop="name" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
+<meta itemprop="description" content="{{ description | strip_html | condense_spaces | truncate:200 }}">
+
+
   {% if page.categories %}
   <meta name="subject" content="{{ page.categories }}"/>
   <meta name="category" content="{{ page.categories }}"/>
