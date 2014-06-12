@@ -16,4 +16,8 @@ All good and well, but what does that mean for your offering? How much would you
  
 In order to help you answer these questions, Sirris will be organizing a 2 session bootcamp in September to help you define your SaaS pricing. Together with a selected team of experts, you’ll get all the elements necessary to develop a consistent pricing strategy for your SaaS offering. You will hear about the [Pay Later Cash Flow model](http://www.slideshare.net/omohout/the-pay-later-cash-flow-model-for-software-companies-explained-in-just-10-slides) and the cash flow issues you may face as a SaaS company. Finally, you will enjoy lessons learned sessions by other SaaS companies on how they leveraged free trials and freemium sales tactics. To top it off, you’ll be doing homework on your own pricing and have the chance to validate your thinking with experts.
 
+### Date and Location
+September 16th and 25th
+Diamant Building Brussels, A.Reyerslaan 80, 1030 Brussels.
+
 We’re working hard on completing the program, stay tuned for the complete program. Feedback? Interested? Don't hesitate, [contact us today!](/pricing-contact)
