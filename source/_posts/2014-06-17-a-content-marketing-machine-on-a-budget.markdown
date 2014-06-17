@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "a-content-marketing-machine-on-a-budget"
+title: "A Content Marketing Machine on a Budget"
 date: 2014-06-17 08:21:20 +0200
 comments: true
 categories: contentmarketing, growth, channels
