@@ -33,7 +33,7 @@ As an illustration of responsive design, consider these screenshots.
 A typical management dashboard on a desktop size screen.
 
 <img src="/images/Mobile-screen-saas.png">
-The same managment dashboard on a mobile screen. Notice how the navigation is collapsed and how nicely the graphs collapse without fighting with each other for screen real estate. 
+The same management dashboard on a mobile screen. Notice how the navigation is collapsed and how nicely the graphs collapse without fighting with each other for screen real estate. 
 
 
 How did you make your SaaS friendlier on mobile? Do you see an increase in mobile usage of your SaaS? I'd like to hear from you!	
