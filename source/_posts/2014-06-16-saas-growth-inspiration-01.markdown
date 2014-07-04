@@ -3,7 +3,7 @@ layout: post
 title: "SaaS: How We Automated Free Trial Extensions To Increase Paid Conversions By 33%... and more to inspiration for SaaS growth"
 date: 2014-06-16 13:35:57 +0200
 comments: true
-categories: inspiration, growth
+categories: inspiration growth
 author: Nick Boucart
 ---
 This is the first article in a (hopefully) long list of weekly articles containing news, articles and "stuff" that is of interest for SaaS entrepreneurs. We will cover topics like "growth hacking", "scaling up", "building scalable relationships", "metrics" and "devops".

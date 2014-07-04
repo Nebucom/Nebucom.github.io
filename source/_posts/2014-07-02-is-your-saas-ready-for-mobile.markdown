@@ -3,7 +3,7 @@ layout: post
 title: "Is your SaaS ready for Mobile?"
 date: 2014-07-02 08:44:53 +0200
 comments: true
-categories: UX, mobile
+categories: UX mobile
 author: Nick Boucart
 ---
 <img src="/images/saas-mobile.jpeg" style="float:left; margin: 0 20px 10px 0">

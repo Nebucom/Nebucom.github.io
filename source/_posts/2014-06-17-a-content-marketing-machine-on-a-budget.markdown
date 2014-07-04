@@ -3,7 +3,7 @@ layout: post
 title: "A Content Marketing Machine on a Budget"
 date: 2014-06-17 08:21:20 +0200
 comments: true
-categories: contentmarketing, growth, channels
+categories: contentmarketing growth channels
 author: Nick Boucart
 ---
 Many SaaS companies use content marketing as one of their strategies to attract new customers at scale. In this nice presentation, colleague [Omar](https://twitter.com/omohout) explains in 10 slides how you can start building a lean and mean content marketing machine for your SaaS business.
