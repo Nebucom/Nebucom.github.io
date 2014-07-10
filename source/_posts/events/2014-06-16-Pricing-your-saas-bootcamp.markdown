@@ -43,7 +43,11 @@ In order to help you answer these questions, Sirris will be organizing a 2 sessi
 Diamant Building, A.Reyerslaan 80, 1030 Brussels
 
 ### Price
-[Get a quote](/pricing-contact)
+399 euro/company.
+
+2 seats/company. For companies based in Flanders, a KMO portefeuile subsidy might be applicable. 
+
+<a href="/pricing-contact" class="btn btn-success btn-large center">Contact us today!</a>
 
 ### Experts:
 <img src="http://www.cs.uu.nl/staff/faces/spruit.jpg">
