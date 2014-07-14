@@ -32,8 +32,8 @@ In order to help you answer these questions, Sirris will be organizing a 2 sessi
 
 ### September 16th 2014
 1. The fundamental elements for pricing a SaaS solution: Pricing strategy guideline framework for SaaS vendors, M.R. Spruit, Utrecht University
-2. Pay models, Omar Mohout, Sirris 
-3. Cash forecasting Pay Later , Peter Verhasselt, Sirris
+2. Lean Pricing, pricing strategies for Startups, Omar Mohout, Sirris
+3. Cash forecasting for the Pay Later Model, Peter Verhasselt, Sirris
 
 ### September 25th 2014
 1. Pricing your SaaS solution: feedback from experts 
@@ -57,6 +57,6 @@ Diamant Building, A.Reyerslaan 80, 1030 Brussels
 [Peter Verhasselt](http://be.linkedin.com/pub/peter-verhasselt/1/8a0/392) is an engineer, jurist and strategist with a large network in Belgian high tech industry. Peter has started and led the Mistral program at Sirris that guided 70+ companies in finding the right technology strategy to enable growth.
 
 <img src="http://www.startathlon.com/images/omar.jpg">
-[Omar Mohout](http://be.linkedin.com/in/omarmohout) is a Growth Engineer – building repeatable, scalable customer acquisition engines for technology companies.
+[Omar Mohout](http://be.linkedin.com/in/omarmohout) is a Growth Engineer – building repeatable, scalable customer acquisition engines for technology companies. Omar is author of “Lean Pricing, pricing strategies for Startups”
 
 <a href="/pricing-contact" class="btn btn-success btn-large center">Contact us today!</a>
