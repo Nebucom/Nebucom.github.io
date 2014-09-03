@@ -3,7 +3,8 @@ layout: post
 title: "6 Reasons Why Outsourcing Early Software Product Development For a Tech Startup Is A Tough One, and Some Tips on how to deal with it."
 date: 2014-09-03 15:31:00 +0200
 comments: true
-categories: 
+categories: business
+picture: http://www.nebucom.be/images/clueless-person.jpg
 ---
 <img src="/images/clueless-person.jpg" style="margin: 0 20px 10px 0">
 
