@@ -41,6 +41,6 @@ Location: [Diamant Building](http://www.diamant.be), Bd A. Reyers 80, 1030 Bruss
 50 EUR (excluding VAT) for members of LSEC, Agoria or Sirris
 Attention: the number of participants is limited.
 
-<a href="http://www.sirris.be/formAgenda.aspx?ekfrm=468&eventId=18380&LangType=1033" class="btn btn-success btn-large center">Subscribe today!</a>
+<a href="http://sirris.be/agenda/saas-made-belgium-conference" class="btn btn-success btn-large center">Subscribe today!</a>
 
 Contact Sirris: Philippe Thiran, tel. +32 491 34 53 94
